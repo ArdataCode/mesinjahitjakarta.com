@@ -1,0 +1,56 @@
+[21-Mar-2024 11:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/align.php on line 59
+[21-Mar-2024 11:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/border.php on line 170
+[21-Mar-2024 11:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/colors.php on line 138
+[21-Mar-2024 11:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/custom-classname.php on line 59
+[21-Mar-2024 11:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/dimensions.php on line 87
+[21-Mar-2024 11:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/duotone.php on line 36
+[21-Mar-2024 11:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/elements.php on line 231
+[21-Mar-2024 11:44:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/generated-classname.php on line 66
+[21-Mar-2024 11:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/layout.php on line 851
+[21-Mar-2024 11:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/position.php on line 145
+[21-Mar-2024 11:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/settings.php on line 151
+[21-Mar-2024 11:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/shadow.php on line 76
+[21-Mar-2024 11:44:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/spacing.php on line 83
+[21-Mar-2024 11:44:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/block-supports/typography.php on line 646

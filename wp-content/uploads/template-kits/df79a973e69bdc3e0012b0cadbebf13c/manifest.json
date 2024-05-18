@@ -1,0 +1,1391 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Fleanec - Template Kit for Drone Aerial Photography & Videography",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/web.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Drone & Equipments",
+            "screenshot": "screenshots\/drone-equipments.jpg",
+            "source": "templates\/drone-equipments.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/drone-equipments\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Fleanec - 404 Page",
+            "screenshot": "screenshots\/fleanec-404-page.jpg",
+            "source": "templates\/fleanec-404-page.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/?elementor_library=fleanec-404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Fleanec - Single Blog",
+            "screenshot": "screenshots\/fleanec-single-blog.jpg",
+            "source": "templates\/fleanec-single-blog.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/?elementor_library=fleanec-single-blog",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Fleanec - Blog",
+            "screenshot": "screenshots\/fleanec-blog.jpg",
+            "source": "templates\/fleanec-blog.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/?elementor_library=fleanec-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Fleanec - Footer",
+            "screenshot": "screenshots\/fleanec-footer.jpg",
+            "source": "templates\/fleanec-footer.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/?elementor_library=fleanec-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Fleanec - Header",
+            "screenshot": "screenshots\/fleanec-header.jpg",
+            "source": "templates\/fleanec-header.json",
+            "preview_url": "https:\/\/web.moxcreative.com\/fleanec\/?elementor_library=fleanec-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.11",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "aerial-view-of-snow-covered-mountains-and-sea-at-colorful-sunset.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-snow-covered-mountains-and-sea-at-colorful-sunset-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/fleanec-blog.json",
+                    "name": "Fleanec - Blog"
+                }
+            ],
+            "filesize": 146010,
+            "dimensions": [
+                1280,
+                847
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SYV2ZWM"
+        },
+        {
+            "filename": "aerial-view-of-san-francisco-skyline-with-city-lights.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-san-francisco-skyline-with-city-lights-800x340.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 111184,
+            "dimensions": [
+                1280,
+                545
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EACTMCK"
+        },
+        {
+            "filename": "pngegg.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/pngegg.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 36568,
+            "dimensions": [
+                525,
+                358
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pngegg.com\/en\/png-orlhr"
+        },
+        {
+            "filename": "a-young-tourist-girl-with-a-backpack-enjoys-the-sunset-from-the-top-of-the-mountain.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/a-young-tourist-girl-with-a-backpack-enjoys-the-sunset-from-the-top-of-the-mountain-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 177611,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q3VPD4Z"
+        },
+        {
+            "filename": "waves-and-rocks-as-a-background-from-top-view-blue-water-background-e1676274683174.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/waves-and-rocks-as-a-background-from-top-view-blue-water-background-e1676274683174-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 223627,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WAP3369"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 141733,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-portrait-of-calm-and-successful-young-bus-W5FWBWU"
+        },
+        {
+            "filename": "Team-7.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 136284,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bearded-man-posing-isolated-over-white-wall-backgr-CEZVA2K"
+        },
+        {
+            "filename": "Team-3.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93615,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-smiling-african-american-female-with-cri-NB8DUN6"
+        },
+        {
+            "filename": "6390476_3267188.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/6390476_3267188-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187294,
+            "dimensions": [
+                3000,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/white-technology-background_6390476.htm#page=2&query=technology%20lens&position=40&from_view=search&track=ais"
+        },
+        {
+            "filename": "pngegg-2-2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/pngegg-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                }
+            ],
+            "filesize": 56336,
+            "dimensions": [
+                720,
+                540
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pngegg.com\/en\/png-zsavi"
+        },
+        {
+            "filename": "BG2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/BG2-800x308.jpg",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 101979,
+            "dimensions": [
+                1920,
+                739
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/minimal-style-gray-abstract-banner-with-stripes-design_31388650.htm#page=2&query=futuristic%20background&position=49&from_view=search&track=ais"
+        },
+        {
+            "filename": "pngegg-2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/pngegg-2-800x501.png",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 298705,
+            "dimensions": [
+                1278,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pngegg.com\/en\/png-vejmd"
+        },
+        {
+            "filename": "Eq-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Eq-1-800x600.png",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 82536,
+            "dimensions": [
+                1024,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/quadcopter-remote-controller-with-display-XYK6WTL"
+        },
+        {
+            "filename": "Eq-4.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Eq-4-800x600.png",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 91294,
+            "dimensions": [
+                1024,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/camera-lense-MFDXX7M"
+        },
+        {
+            "filename": "Eq-5.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Eq-5-800x600.png",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 81343,
+            "dimensions": [
+                1024,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/handheld-camera-stabilizer-RS82MHR"
+        },
+        {
+            "filename": "aerial-view-of-fishing-boats-rocks-in-the-blue-sea-e1676274742386.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-fishing-boats-rocks-in-the-blue-sea-e1676274742386-800x623.jpg",
+            "templates": [
+                {
+                    "source": "templates\/drone-equipments.json",
+                    "name": "Drone & Equipments"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 169305,
+            "dimensions": [
+                1080,
+                841
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMBJQKD"
+        },
+        {
+            "filename": "drone-quadcopter-with-digital-camera.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-quadcopter-with-digital-camera-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 48232,
+            "dimensions": [
+                1280,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z25D9SA"
+        },
+        {
+            "filename": "aerial-drone-view-of-a-woman-swimming-giola-lagoon-e1676274764570.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-drone-view-of-a-woman-swimming-giola-lagoon-e1676274764570-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 202288,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D7FKAU9"
+        },
+        {
+            "filename": "drone-shot-of-raven-crag-and-thirlmere-reservoir-at-the-lake-district-in-england.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-shot-of-raven-crag-and-thirlmere-reservoir-at-the-lake-district-in-england-800x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 71051,
+            "dimensions": [
+                1280,
+                427
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7NRNC7R"
+        },
+        {
+            "filename": "Visa.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Visa.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 11744,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/card-logo.com\/"
+        },
+        {
+            "filename": "Mastercard.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Mastercard.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 11397,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/card-logo.com\/"
+        },
+        {
+            "filename": "Maestro.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Maestro.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 12071,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/card-logo.com\/"
+        },
+        {
+            "filename": "Paypal.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Paypal.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 9067,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/card-logo.com\/"
+        },
+        {
+            "filename": "JCB.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/JCB.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 10757,
+            "dimensions": [
+                300,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/card-logo.com\/"
+        },
+        {
+            "filename": "Brand-1.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Brand-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 3991,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Brand-2.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Brand-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 4277,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Brand-3.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Brand-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 3521,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Brand-4.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Brand-4.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 3089,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Brand-5.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Brand-5.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 4273,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "aerial-view-of-road-going-along-ocean-or-sea-in-italy-e1676274788847.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-road-going-along-ocean-or-sea-in-italy-e1676274788847-800x599.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 233148,
+            "dimensions": [
+                1080,
+                809
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLHPRQ4"
+        },
+        {
+            "filename": "aerial-view-of-blue-colored-forest-lake-in-poland-e1676274813711.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-blue-colored-forest-lake-in-poland-e1676274813711-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 255648,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8KRWV3E"
+        },
+        {
+            "filename": "aerial-view-of-a-massive-highway-road-intersection-in-moscow-city-russia-e1676274838340.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-of-a-massive-highway-road-intersection-in-moscow-city-russia-e1676274838340-800x599.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 266866,
+            "dimensions": [
+                1080,
+                809
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS5327H"
+        },
+        {
+            "filename": "young-man-is-walking-in-forestal-park-with-his-drone-e1676274870367.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/young-man-is-walking-in-forestal-park-with-his-drone-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 167049,
+            "dimensions": [
+                720,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4HTSNSK"
+        },
+        {
+            "filename": "man-pilot-controlling-quadcopter-drone-with-remote-controller-pad-.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/man-pilot-controlling-quadcopter-drone-with-remote-controller-pad--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 85706,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2P3GQ2X"
+        },
+        {
+            "filename": "wheat-farmer-using-drone-remote-controller-in-wheatgrass-field-aerial-e1676274896243.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/wheat-farmer-using-drone-remote-controller-in-wheatgrass-field-aerial-e1676274896243-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 247576,
+            "dimensions": [
+                1080,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C9LXWQU"
+        },
+        {
+            "filename": "drone-flying-in-the-sky.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-flying-in-the-sky-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 81121,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LCQ48PR"
+        },
+        {
+            "filename": "drone-flying-over-oilseed.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-flying-over-oilseed-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 198721,
+            "dimensions": [
+                1280,
+                1919
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DMU3XPW"
+        },
+        {
+            "filename": "drone-flying-in-the-sky-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-flying-in-the-sky-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 49343,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P33NFZS"
+        },
+        {
+            "filename": "man-operating-a-drone-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/man-operating-a-drone-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 89433,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDJL95F"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95707,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-portrait-BQ77PFX"
+        },
+        {
+            "filename": "Team-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 132924,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-teenage-ginger-girl-with-combed-hair-and-beau-QXGXK9V"
+        },
+        {
+            "filename": "Team-8.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 86900,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fitness-instructor-posing-P222PPE"
+        },
+        {
+            "filename": "Team-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 90049,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-portrait-of-yong-woman-casual-portrait-in-4GXSHHV"
+        },
+        {
+            "filename": "Team-6.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 125813,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/casual-man-portrait-TCFPHS9"
+        },
+        {
+            "filename": "aerial-view-tacoma-narrows-bridges-over-puget-sound-mount-rainier.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/aerial-view-tacoma-narrows-bridges-over-puget-sound-mount-rainier-800x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 105571,
+            "dimensions": [
+                1280,
+                638
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-W92NEXG"
+        },
+        {
+            "filename": "drone-with-camera-is-flying-iceberg-1920.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-with-camera-is-flying-iceberg-1920-800x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 234406,
+            "dimensions": [
+                1920,
+                1117
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/drone-with-camera-is-flying-iceberg_11768944.htm#query=drone&position=4&from_view=search&track=sph"
+        },
+        {
+            "filename": "drone-aerial-view-at-miami-south-beach-florida-beach-with-colorful-chairs-and-umbrellas.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/drone-aerial-view-at-miami-south-beach-florida-beach-with-colorful-chairs-and-umbrellas-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 159432,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BC4EX5J"
+        },
+        {
+            "filename": "3d-render-drone-flying-sunset-ocean-1-1-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/3d-render-drone-flying-sunset-ocean-1-1-1-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/fleanec-404-page.json",
+                    "name": "Fleanec - 404 Page"
+                }
+            ],
+            "filesize": 53672,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/3d-render-drone-flying-sunset-ocean_1137551.htm#query=drone&position=7&from_view=search&track=sph"
+        },
+        {
+            "filename": "Staff-2.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Staff-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/fleanec-single-blog.json",
+                    "name": "Fleanec - Single Blog"
+                }
+            ],
+            "filesize": 88585,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bearded-man-posing-isolated-over-white-wall-backgr-CEZVA2K"
+        },
+        {
+            "filename": "3d-motion-flow-background-with-digital-particles-1.jpg",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/3d-motion-flow-background-with-digital-particles-1-800x599.jpg",
+            "templates": [
+                {
+                    "source": "templates\/fleanec-footer.json",
+                    "name": "Fleanec - Footer"
+                }
+            ],
+            "filesize": 139652,
+            "dimensions": [
+                1500,
+                1124
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/3d-motion-flow-background-with-digital-particles_8630917.htm#page=2&query=robotic%20background&position=33&from_view=search&track=sph"
+        },
+        {
+            "filename": "Logo-Fleanec_3.png",
+            "thumbnail_url": "https:\/\/web.moxcreative.com\/fleanec\/wp-content\/uploads\/sites\/11\/2023\/02\/Logo-Fleanec_3.png",
+            "templates": [
+                {
+                    "source": "templates\/fleanec-footer.json",
+                    "name": "Fleanec - Footer"
+                },
+                {
+                    "source": "templates\/fleanec-header.json",
+                    "name": "Fleanec - Header"
+                }
+            ],
+            "filesize": 10846,
+            "dimensions": [
+                660,
+                112
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/drone-x-logo-template-NSGW6D"
+        }
+    ]
+}

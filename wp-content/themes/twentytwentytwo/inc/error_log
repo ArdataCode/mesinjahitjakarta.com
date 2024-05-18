@@ -1,0 +1,4 @@
+[21-Mar-2024 11:45:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ujianori/mesinjahitjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-content/themes/twentytwentytwo/inc/block-patterns.php on line 135

@@ -1,0 +1,4 @@
+[21-Mar-2024 11:43:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/ujianori/mesinjahitjakarta.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/mesinjahitjakarta.com/wp-includes/SimplePie/Core.php on line 53
